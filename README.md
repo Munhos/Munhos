@@ -1,5 +1,5 @@
 # 💫 About Me:
---- HELLO! Sejam bem vindos ao meu github!---<br><br>•Me chamo Julio Cesar, desenvolvedor e estudante de engenharia de software.
+--- HELLO! Sejam bem vindos ao meu github! ---<br><br>•Me chamo Julio Cesar, desenvolvedor e estudante de engenharia de software.
 
 
 ## 🌐 Socials:
